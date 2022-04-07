@@ -1,0 +1,40 @@
+.contenedor1{
+  height: 300px;
+  width: 300px;
+  background-color: white;
+  margin-top: 10%;
+  margin-left: 40%;
+  border-top: 3px solid #0000FF;
+  border-right: 6px solid #0000FF;
+  border-bottom: 3px solid #0000FF;
+  border-left: 1px solid #0000FF;
+}
+
+.container{
+  background-color: #B7DAF5; 
+}
+
+.logo{
+  margin-left: 25%;
+}
+
+.input{
+  padding: 10px;
+  margin: 10px; 
+  background-color: #B7DAF5;
+  border-top: 4px solid #84A3BA;
+  
+}
+
+.input_container{
+  margin-left: 40px;
+}
+
+.login_button{
+  background-color: #204180;
+  color:white;
+  height: 30px;
+  width: 188px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
