@@ -1,5 +1,5 @@
 .contenedor1 {
-  height: 76%;
+  height: auto;
   width: 71%;
   background-color: white;
   border-top: 3px solid #0000ff;
@@ -7,9 +7,10 @@
   border-bottom: 3px solid #0000ff;
   border-left: 1px solid #0000ff;
   float: left;
+  padding-bottom: 50px;
 }
 
-.container {
+.custom-container {
   background-color: #b7daf5;
 }
 
@@ -24,7 +25,6 @@
   padding-top: 63px;
   margin-left: 20%;
   font-size: x-large;
-  background-color: violet;
   height: 69px;
   }
 
@@ -54,8 +54,8 @@
 }
 
 .usuario-icon {
-  margin-left: 15%;
-  margin-top: 23px;
+  margin-left: 40%;
+  margin-top: 66px;
 }
 
 .login_button {
@@ -63,8 +63,8 @@
   color: white;
   height: 30px;
   width: 188px;
-  margin-left: 10px;
-  margin-top: 10px;
+  margin-left: 110px;
+  margin-top: 50px;
 }
 .title2 {
   margin: auto;
@@ -77,8 +77,10 @@
 }
 
 .container-usuario {
+  height: 100%;
   width: 25%;
   float: left;
+
 }
 .close_button{
   background-color: #FFFFFF;
@@ -90,9 +92,16 @@
   border:solid #204180 3px;
 }
 #input3{
-  background: #FFFFFF url(resources/boton-inicio.PNG) no-repeat  7px 7px ;
+  background: #FFFFFF url(../resources/off.PNG) no-repeat  7px 7px ;
   background-size: 20px;
   padding-left: 28px;
   padding-top: 10px;
   padding-bottom: 20px;
+  width: 131px
+}
+
+.table-container{
+  width: 80%;
+  margin-left: 10%;
+  padding-top: 50px;
 }
