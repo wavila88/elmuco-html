@@ -1,59 +1,98 @@
-.contenedor1{
-    height: 76%;
-    width: 70%;
-    background-color: white;
-    margin-top: 11%;
-    border-top: 3px solid #0000FF;
-    border-right: 6px solid #0000FF;
-    border-bottom: 3px solid #0000FF;
-    border-left: 1px solid #0000FF;
-    float: left;
-  }
-  
-  .container{
-    background-color: #B7DAF5; 
-  }
-  
-  .title{
-    margin: auto;
-    font-family: serif;
-    width: 100;
-    margin-top: 20px;
-    font-weight: 100;
-  }
-  
-  .login_button{
-    background-color: #204180;
-    color:white;
-    height: 30px;
-    width: 188px;
-    margin-left: 10px;
-    margin-top: 10px;
+.contenedor1 {
+  height: 76%;
+  width: 71%;
+  background-color: white;
+  border-top: 3px solid #0000ff;
+  border-right: 6px solid #0000ff;
+  border-bottom: 3px solid #0000ff;
+  border-left: 1px solid #0000ff;
+  float: left;
+}
+
+.container {
+  background-color: #b7daf5;
+}
+
+.container-top{
+  width: 100%;
+  height: 19%;
+}
+
+.title {
+  font-family: serif;
+  width: 60%;
+  padding-top: 63px;
+  margin-left: 20%;
+  font-size: x-large;
+  background-color: violet;
+  height: 69px;
   }
 
-  .logo-container{
-      width: 100%;
-  }
+.login_button {
+  background-color: #204180;
+  color: white;
+  height: 30px;
+  width: 188px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
 
-  .logo{
-    margin-left: 27%;
-  }
+.logo-container {
+  width: 11%;
+  float: left;
+}
 
-  .container-navigation{
-      height: 100%;
-      width: 25%;
-      float: left;
-  }
+.logo {
+  margin-left: 0.3%;
+  margin-top: 15px;
+}
 
-  .usuario-icon{
-      margin-left: 23%;
-  }
+.container-navigation {
+  height: 100%;
+  width: 25%;
+  float: left;
+}
 
-  .login_button{
-    background-color: #204180;
-    color:white;
-    height: 30px;
-    width: 188px;
-    margin-left: 10px;
-    margin-top: 10px;
-  }
+.usuario-icon {
+  margin-left: 15%;
+  margin-top: 23px;
+}
+
+.login_button {
+  background-color: #204180;
+  color: white;
+  height: 30px;
+  width: 188px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.title2 {
+  margin: auto;
+  font-family: serif;
+  width: 500;
+  margin-top: 40px;
+  margin-left: 70px;
+  font-weight: 100;
+  font-size: unset;
+}
+
+.container-usuario {
+  width: 25%;
+  float: left;
+}
+.close_button{
+  background-color: #FFFFFF;
+  color:black;
+  height: 30px;
+  width: 120px;
+  margin-left: 1380px;
+  margin-top: 5px;
+  border:solid #204180 3px;
+}
+#input3{
+  background: #FFFFFF url(resources/boton-inicio.PNG) no-repeat  7px 7px ;
+  background-size: 20px;
+  padding-left: 28px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}

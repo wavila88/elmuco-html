@@ -1,0 +1,16 @@
+.close_button{
+  background-color: #FFFFFF;
+  color:black;
+  height: 30px;
+  width: 120px;
+  margin-left: 1380px;
+  margin-top: 5px;
+  border:solid #204180 3px;
+}
+#input3{
+  background: #FFFFFF url(resources/boton-inicio.PNG) no-repeat  7px 7px ;
+  background-size: 20px;
+  padding-left: 28px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
