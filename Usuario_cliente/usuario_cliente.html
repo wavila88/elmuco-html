@@ -4,8 +4,8 @@
         Cerrar Sesión
           </button>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />   
-       <title>Usuario Vendedor</title>
-    <link rel="stylesheet" href="./usuario.css">
+       <title>Ver Catalogo</title>
+    <link rel="stylesheet" href="./usuario_cliente.css">
     <link rel="stylesheet" type="text/css" href="../DataTable/DataTables-1.11.5/css/jquery.dataTables.min.css"/>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
 </header>
@@ -13,16 +13,16 @@
     <div class="container-usuario">
         <img class="usuario-icon" width="110" height="90" src="../resources/usuario-icon.PNG"></img>
     </div>
-    <div class="title">Usuario: Vendedor</div>
+    <div class="title">Usuario: Cliente</div>
 </div>
 <body class="custom-container">
     <div class="container-navigation">
 
         <button class="login_button">
-            Facturación
+            Ver catalogo
         </button>
-        <button class="stock-button">
-            Ver existencias
+        <button class="shopping-button" id="imput4">
+            Carrito de compras
         </button>
     </div>
     <div class="contenedor1">
@@ -30,10 +30,14 @@
             <img class="logo" width="80" height="50" src="../resources/Logo.PNG"></img>
         </div>
         <div>
-            <h1 class="title2">STOCK EL MUNDO DEL COMPUTADOR</h1>
+            <h1 class="title2">CATALOGO EL MUNDO DEL COMPUTADOR</h1>
+            <div class="logoshopping-container">
+                <img class="shopping-cart" width="50" height="30" src="../resources/shopping_cart2.PNG"></img>
+                <LInk>Agregar al Carrito</LInk></div>
+            
         </div>
 
-        <div class="table-container">
+        <div class="table-container"> 
             <div class="form-container">
                 <table id="example" class="table table-striped table-bordered dt-responsive nowrap" style="width:100%">
                     <thead>

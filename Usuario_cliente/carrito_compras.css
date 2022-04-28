@@ -59,7 +59,7 @@
 }
 
 .login_button {
-  background-color: #204180;
+  background-color:#204180;
   color: white;
   height: 30px;
   width: 188px;
@@ -105,11 +105,77 @@
   margin-left: 10%;
   padding-top: 50px;
 }
-.stock-button {
-  background-color: #5B5C5F;
+.shopping-button {
+  background-color:#5B5C5F;
   color: white;
   height: 30px;
   width: 188px;
   margin-left: 110px;
   margin-top: 20px;
+}
+#input4{
+  background: #204180 url(../resources/shopping_cart.PNG) no-repeat  7px 7px ;
+    background-size: 100px;
+  padding-left: 28px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+.shopping-cart {
+  margin-left: 1px;
+  margin-top: 1px;
+  height: inherit;
+}
+.logoshopping-container{
+  width: 180px;
+  float: left;
+  margin-left: 680px;
+}
+.add-products {
+  background-color:#204180;
+  color: white;
+}
+.adrress_button {
+  background-color: #FFFFFF;
+  color: black;
+  height: 35;
+  width: 190px;
+  margin-left: 100px;
+  margin-top: 50px;
+  border-top: 6px solid #E9E5E5;
+  border-right: 6px solid #E9E5E5;
+  border-bottom: 6px solid #E9E5E5;
+  border-left: 6px solid #E9E5E5;
+}
+.input_container{
+  margin-left: 8.8%;
+  padding-left: 6px;
+}
+#input5{
+  background: #B7DAF5 url(../resources/adress.PNG) no-repeat  7px 7px ;
+  background-size: 20px;
+  padding-left: 28px;
+  } 
+ 
+.pay {
+  background-color:#204180;
+  color: white;
+  height: 30px;
+  width: 108px;
+  margin-left: 140px;
+  margin-top: 50px;
+}
+.logo-container2 {
+  width: 11%;
+  float: left;
+}
+
+.logopay {
+  margin-left: 380%;
+  margin-top: 15px;
+}
+.adress {
+  border-top: 6px solid #E9E5E5;
+  border-right: 6px solid #E9E5E5;
+  border-bottom: 6px solid #E9E5E5;
+  border-left: 6px solid #E9E5E5;
 }
