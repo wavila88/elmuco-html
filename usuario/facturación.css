@@ -1,0 +1,222 @@
+.contenedor1 {
+  height: auto;
+  width: 71%;
+  background-color: white;
+  border-top: 3px solid #204180;
+  border-right: 30px solid #204180;
+  border-bottom: 30px solid #204180;
+  border-left: 6px solid #204180;
+  float: left;
+  padding-bottom: 50px;
+}
+
+.custom-container {
+  background-color: #b7daf5;
+}
+
+.container-top {
+  width: 100%;
+  height: 19%;
+}
+
+.title {
+  font-family: serif;
+  width: 60%;
+  padding-top: 63px;
+  margin-left: 20%;
+  font-size: x-large;
+  height: 69px;
+}
+
+.login_button {
+  background-color: #204180;
+  color: white;
+  height: 30px;
+  width: 188px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+.logo-container {
+  width: 42%;
+  float: left;
+}
+
+.logo {
+  margin-left: 0.3%;
+  margin-top: 15px;
+}
+
+.container-navigation {
+  height: 100%;
+  width: 25%;
+  float: left;
+}
+
+.usuario-icon {
+  margin-left: 40%;
+  margin-top: 66px;
+}
+
+.login_button {
+  background-color: #5b5c5f;
+  color: white;
+  height: 30px;
+  width: 188px;
+  margin-left: 110px;
+  margin-top: 50px;
+}
+.title2 {
+  margin: auto;
+  font-family: serif;
+  width: 500;
+  margin-top: 40px;
+  margin-left: 70px;
+  font-weight: 100;
+  font-size: unset;
+}
+
+.container-usuario {
+  height: 100%;
+  width: 25%;
+  float: left;
+}
+.close_button {
+  background-color: #ffffff;
+  color: black;
+  height: 30px;
+  width: 120px;
+  margin-left: 1380px;
+  margin-top: 5px;
+  border: solid #204180 3px;
+}
+#input3 {
+  background: #ffffff url(../resources/off.PNG) no-repeat 7px 7px;
+  background-size: 20px;
+  padding-left: 28px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  width: 131px;
+}
+
+.table-container {
+  width: 80%;
+  margin-left: 10%;
+  padding-top: 50px;
+}
+.stock-button {
+  background-color: #204180;
+  color: white;
+  height: 30px;
+  width: 188px;
+  margin-left: 110px;
+  margin-top: 20px;
+}
+.title3 {
+  font-family: serif;
+  width: 60%;
+  padding-top: 63px;
+  margin-left: 18px;
+  font-size: x-large;
+  height: 69px;
+}
+.adress {
+  background-color: #c4c4c4;
+  border-top: 4px solid #204180;
+  border-right: 4px solid #204180;
+  border-bottom: 4px solid #204180;
+  border-left: 4px solid #204180;
+}
+.input_container {
+  margin-left: 52.8%;
+  padding-left: 6px;
+}
+.title4 {
+  font-family: serif;
+  width: 43%;
+  padding-top: 30px;
+  margin-left: 18px;
+  font-size: x-large;
+  height: 69px;
+  float: left;
+}
+.adress2 {
+  border-top: 4px solid #204180;
+  border-right: 4px solid #204180;
+  border-bottom: 4px solid #204180;
+  border-left: 4px solid #204180;
+}
+.input_container2 {
+  padding-left: 6px;
+  float: left;
+  margin-top: 33px;
+  margin-left: 25px;
+}
+.title5 {
+  font-family: serif;
+  width: 50%;
+  font-size: 23px;
+  height: 69px;
+  float: left;
+  margin-left: 17px;
+  margin-top: 13px;
+}
+.adress3 {
+  border-top: 4px solid #204180;
+  border-right: 4px solid #204180;
+  border-bottom: 4px solid #204180;
+  border-left: 4px solid #204180;
+}
+.input_container3 {
+  float: left;
+  margin-top: 13px;
+}
+
+.title-date {
+  width: 43%;
+  padding-top: 26px;
+  margin-left: 4%;
+  font-size: 23px;
+  height: 69px;
+  float: left;
+  font-family: serif;
+  }
+
+.input-date{
+  float: left;
+  border-top: 4px solid #204180;
+  border-right: 4px solid #204180;
+  border-bottom: 4px solid #204180;
+  border-left: 4px solid #204180;
+}
+
+.logo-container2{
+  width: 40%;
+  float: left;
+}
+
+.logo-div{
+  margin-left: 57%;
+}
+
+.label-logo{
+  margin-left: -81%;
+}
+.logoshopping-container{
+  width: 180px;
+  float: left;
+  margin-left: 22px;
+}
+.add-products {
+  background-color:#204180;
+  color: white;
+}
+.finish-container{
+  width: 180px;
+  float: left;
+  margin-left: -25px;
+}
+.finish-invoice {
+  background-color:#204180;
+  color: white;
+}
